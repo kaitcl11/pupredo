@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+
+body {background-color: antiquewhite;
+font-family:"slabo"; margin: 27px; font-style: 16px}
+#wrapper{
+	width: 80%; height: 20%; margin: 0px auto; border: 2px solid dimgray;font-family: 'Slabo 27px'; margin: 0px auto; color: dimgray; background-color:aliceblue; text-align:center}
+#job {	width: 80%; height: 30%; margin: 0px auto; border: 2px solid dimgray;font-family: 'Slabo 27px'; margin: 0px auto; color: dimgray; background-color:aliceblue; text-align:center}
+	p {text-align: center; font-size: 16px; font-family:'Slabo 27px', serif;}
+	h1 {text-align: center; font-size: 32px; font-family:'Slabo 27px', serif;}
+  h2 {text-align: center}
+  p {text-align:center; font-size: 16px;font-family: 'Slabo 27px', serif;; color: dimgray}
+  h3 {text-align: center;font-size: 16px;font-family: 'Slabo 27px', serif;; color: dimgray}
+  h4 {text-align: center; font-size: 16px;font-family: 'Slabo 27px', serif;; color: dimgray}
+  h5 {text-align: center; font-size: 16px;font-family: 'Slabo 27px', serif;; color: dimgray}
+  h6 {text-align: center; font-size: 16px;font-family: 'Slabo 27px', serif;; color: dimgray}
+
+li {font-family: 'Slabo 27px'} {color:darkslategray; text-align: auto;}
